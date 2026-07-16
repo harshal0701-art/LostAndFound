@@ -195,7 +195,7 @@ Users retrieve all items using the GET API.
 
 ## 📋 View All Items
 
-![Items](screenshots/items.png)
+![Items](screenshots/item.png)
 
 ---
 
@@ -205,29 +205,6 @@ Users retrieve all items using the GET API.
 
 ---
 
-## 🪣 Amazon S3 Bucket
-
-![S3](screenshots/s3.png)
-
----
-
-## 🗄️ DynamoDB Table
-
-![DynamoDB](screenshots/dynamodb.png)
-
----
-
-## ⚡ Lambda Function
-
-![Lambda](screenshots/lambda.png)
-
----
-
-## 🌐 API Gateway
-
-![API Gateway](screenshots/apigateway.png)
-
----
 
 # 📂 Project Structure
 
